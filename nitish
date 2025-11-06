@@ -1,0 +1,54 @@
+x=2
+if(x%2==0):
+    print("even")
+else:
+    print("odd")
+
+t1=("cse-2,")
+t2=("cse-3")
+combined=t1+t2
+print(combined)
+
+repetetion=t1*4
+print(repetetion)
+
+print(len(t1))
+
+print("cse-2" in t1)
+
+
+import random
+
+l1=[1,2,3,4]
+random.choice(l1)
+print(random.choice(l1))
+
+
+import math
+x1=2
+x2=3
+y1=4
+y2=5
+print((x2-x1)^2-(y2-y1)^2)
+
+x=12
+if(x%2==0,x<0):
+    print("positive and even")
+elif(x>0):
+    print("negative and odd")
+
+
+
+
+print(8+9/3+(2*3)**2)
+
+print(10/3)
+
+print(10+6*4+(5**2+5*2)**2)
+
+print(10//3)
+
+      
+
+
+      
